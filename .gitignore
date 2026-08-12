@@ -1,0 +1,6 @@
+*/cache/
+*/Cache/
+.cache/
+build/
+*.bak
+node_modules/
